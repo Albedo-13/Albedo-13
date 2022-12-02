@@ -1,3 +1,11 @@
+### Hi there 👋
+
+🔭 I’m currently open to work :)
+
+📫 You can reach me at: 
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/prokopenyapavel/)
+
 ### Recent Activity
 
 <!--START_SECTION:activity-->
