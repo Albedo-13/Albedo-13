@@ -5,6 +5,17 @@
 📫 You can reach me at: 
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/prokopenyapavel/)
+[![CV](https://img.shields.io/badge/-%F0%9F%8C%90%20C%20V-white?style=flat)](https://albedo-13.github.io/)
+
+<!-- [![Gmail](https://img.shields.io/badge/-white?label=Email&style=social&logo=gmail)](mailto:prokopenya.work@gmail.com) -->
+<!-- [CV](https://albedo-13.github.io/) -->
+
+### 🔮 Future ideas
+
+1. Update all git projects descritions, make them on deploy
+2. Update [CV](https://albedo-13.github.io/) (add carousel of projects, new projects, new RSS course and maybe certificate)
+3. Change Online-store project design to [this](https://dashaermolich-online-store.netlify.app/) or [this](https://zhannach-online-store.netlify.app/)
+4. Expore [React.js](https://ru.reactjs.org/) and make project on it
 
 ### ⚡ Recent Activity
 
