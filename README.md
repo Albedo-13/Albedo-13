@@ -20,11 +20,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
-2. 🗣 Commented on [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
-3. 🎉 Merged PR [#1](https://github.com/Albedo-13/Gym/pull/1) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
-4. 🎉 Merged PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
-5. 💪 Opened PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
+1. 🎉 Merged PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
+2. 💪 Opened PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
+3. ❗️ Closed issue [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+4. 🗣 Commented on [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+5. 🎉 Merged PR [#1](https://github.com/Albedo-13/Gym/pull/1) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
 <!--END_SECTION:activity-->
 
 
