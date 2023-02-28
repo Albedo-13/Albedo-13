@@ -20,11 +20,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
-2. 🎉 Merged PR [#1](https://github.com/Albedo-13/Gym/pull/1) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
-3. 🎉 Merged PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
-4. 💪 Opened PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
-5. 🎉 Merged PR [#1](https://github.com/Albedo-13/core-js-101/pull/1) in [Albedo-13/core-js-101](https://github.com/Albedo-13/core-js-101)
+1. ❗️ Closed issue [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+2. 🗣 Commented on [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+3. 🎉 Merged PR [#1](https://github.com/Albedo-13/Gym/pull/1) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+4. 🎉 Merged PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
+5. 💪 Opened PR [#1](https://github.com/Albedo-13/Online-store/pull/1) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
 <!--END_SECTION:activity-->
 
 
