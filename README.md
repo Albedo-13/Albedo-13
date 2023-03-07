@@ -20,11 +20,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
-2. 💪 Opened PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
-3. 🎉 Merged PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
-4. 💪 Opened PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
-5. ❗️ Closed issue [#2](https://github.com/Albedo-13/Gym/issues/2) in [Albedo-13/Gym](https://github.com/Albedo-13/Gym)
+1. 💪 Opened PR [#3](https://github.com/Albedo-13/Octocont/pull/3) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
+2. 🎉 Merged PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
+3. 💪 Opened PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
+4. 🎉 Merged PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
+5. 💪 Opened PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
 <!--END_SECTION:activity-->
 
 
