@@ -14,7 +14,7 @@
 
 0. Finish React+Redux course by [Ivan Petrichenko](https://www.udemy.com/course/javascript_full/) 🤓
 1. Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
-2. Expore Next.js and Firebase, make project by using: React, Redux, Scss, Next.js, Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
+2. Expore Next.js, Firebase, make project by using: React, Redux, Scss, Next.js, Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
 3. Using all my skills and knowledge, try to create [Clone of the dominos pizza](https://www.dominos.by/) 🍕
 4. Update resume & this readme 😄
 <!--
