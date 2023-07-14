@@ -12,22 +12,11 @@
 
 ### 🔮 Future ideas
 
-1. Update all git projects descritions, make them on deploy
-2. Update [CV](https://albedo-13.github.io/) (add carousel of projects, new projects, new RSS course and maybe certificate)
-3. Change Online-store project design to [this](https://dashaermolich-online-store.netlify.app/) or [this](https://zhannach-online-store.netlify.app/)
-4. Expore [React.js](https://ru.reactjs.org/) and make project on it
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Albedo-13/Octocont/pull/3) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
-2. 🎉 Merged PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
-3. 💪 Opened PR [#1](https://github.com/Albedo-13/Octocont/pull/1) in [Albedo-13/Octocont](https://github.com/Albedo-13/Octocont)
-4. 🎉 Merged PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
-5. 💪 Opened PR [#1](https://github.com/Albedo-13/rs-clone-fallout-2/pull/1) in [Albedo-13/rs-clone-fallout-2](https://github.com/Albedo-13/rs-clone-fallout-2)
-<!--END_SECTION:activity-->
-
-
+0. Finish React+Redux course by Ivan Petrichenko 🤓
+1. Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
+2. Expore Next.js and Firebase, make project by using: React, Redux, Scss, Next.js, Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
+3. Using all my skills and knowledge, try to create [Clone of the dominos pizza](https://www.dominos.by/) 🍕
+4. Update resume & this readme 😄
 <!--
 **Albedo-13/Albedo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
