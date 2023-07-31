@@ -17,6 +17,9 @@
 2. Expore Next.js, Firebase, make project by using: React, Redux, Scss, Next.js, Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
 3. Using all my skills and knowledge, try to create [Clone of the dominos pizza](https://www.dominos.by/) 🍕
 4. Update resume & this readme 😄
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact)
+
 <!--
 **Albedo-13/Albedo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
