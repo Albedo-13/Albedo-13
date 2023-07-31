@@ -6,8 +6,19 @@ Hi there 👋
 
 📫 You can reach me at: 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/prokopenyapavel/)
+<a href="https://www.linkedin.com/in/prokopenyapavel/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+</a> &nbsp;
+<a href="https://t.me/albedo_lucky13" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="36" height="36" alt="Telegram" />
+</a> &nbsp;
+
+<!--
+<a href="https://albedo-13.github.io/" target="_blank" rel="noreferrer">
+  <img src="" width="36" height="36" alt="CV" />
+</a> &nbsp;
 [![CV](https://img.shields.io/badge/-%F0%9F%8C%90%20C%20V-white?style=flat)](https://albedo-13.github.io/)
+-->
 
 <!-- [![Gmail](https://img.shields.io/badge/-white?label=Email&style=social&logo=gmail)](mailto:prokopenya.work@gmail.com) -->
 <!-- [CV](https://albedo-13.github.io/) -->
