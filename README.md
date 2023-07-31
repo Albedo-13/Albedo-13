@@ -18,7 +18,38 @@
 3. Using all my skills and knowledge, try to create [Clone of the dominos pizza](https://www.dominos.by/) 🍕
 4. Update resume & this readme 😄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact)
+<a href="#">
+  <picture align="center">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark">
+   <img height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default">
+  </picture>
+</a>
+<a href="#">
+  <picture align="center">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=github_dark">
+   <img height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
+  </picture>
+</a>
+
+<!-- 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+ <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture> 
+-->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
 
 <!--
 **Albedo-13/Albedo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
