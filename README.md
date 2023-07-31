@@ -20,14 +20,14 @@
 
 <a href="#">
   <picture align="center">
-   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark">
-   <img height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default">
+   <source align="center" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark&card_width=250">
+   <img align="center" height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default&card_width=250">
   </picture>
 </a>
 <a href="#">
   <picture align="center">
-   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=github_dark">
-   <img height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
+   <source align="center" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=github_dark">
+   <img align="center" height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
   </picture>
 </a>
 
