@@ -1,4 +1,4 @@
-## ℹ️ About
+## <p align="center">ℹ️ About </p>
 
 Hi there 👋
 
@@ -23,7 +23,7 @@ Hi there 👋
 <!-- [![Gmail](https://img.shields.io/badge/-white?label=Email&style=social&logo=gmail)](mailto:prokopenya.work@gmail.com) -->
 <!-- [CV](https://albedo-13.github.io/) -->
 
-## 🔮 Future ideas
+## <p align="center">🔮 Future ideas</p>
 
 0. Finish React+Redux course by [Ivan Petrichenko](https://www.udemy.com/course/javascript_full/) 🤓
 1. Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
@@ -31,7 +31,7 @@ Hi there 👋
 3. Using all my skills and knowledge, try to create [Clone of the dominos pizza](https://www.dominos.by/) 🍕
 4. Update resume & this readme 😄
 
-## 💡 Skills
+## <p align="center">💡 Skills</p>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="36" height="36" alt="HTML5" />
@@ -68,18 +68,18 @@ Hi there 👋
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 </a> &nbsp;
 
-## 📊 Statistics
+## <p align="center">📊 Statistics</p>
 
 <a href="#">
   <picture align="center">
-   <source align="center" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark&card_width=250">
-   <img align="center" height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default&card_width=250">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=github_dark&card_width=250">
+   <img height="200px" alt="light mode langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedo-13&layout=compact&theme=default&card_width=250">
   </picture>
 </a>
 <a href="#">
   <picture align="center">
-   <source align="center" height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=github_dark">
-   <img align="center" height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
+   <source height="200px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=github_dark">
+   <img height="200px" alt="light mode stats" src="https://github-readme-stats.vercel.app/api?username=albedo-13&show_icons=true&rank_icon=github&theme=default">
   </picture>
 </a>
 
