@@ -34,7 +34,7 @@ Hi there 👋
 
 ## <p align="center">💡 Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mui,js,react,redux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,redux,mui,git)](https://skillicons.dev)
 
 ### Future plans to extend my stack with:
 
