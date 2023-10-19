@@ -35,40 +35,11 @@ Hi there 👋
 
 ## <p align="center">💡 Skills</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="36" height="36" alt="HTML5" />
-</a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="36" height="36" alt="CSS3" />
-</a> &nbsp;
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="36" height="36" alt="Sass" />
-</a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="36" height="36" alt="React" />
-</a> &nbsp;
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-</a> &nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mui,js,react,redux,git)](https://skillicons.dev)
 
 ### Future plans to extend my stack with:
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" />
-</a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase" />
-</a> &nbsp;
-<a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="MaterialUI" />
-</a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-</a> &nbsp;
+[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,tailwind)](https://skillicons.dev)
 
 ## <p align="center">📊 Statistics</p>
 
