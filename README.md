@@ -38,7 +38,7 @@ Hi there 👋
 
 ### Future plans to extend my stack with:
 
-[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,tailwind)](https://skillicons.dev)
+[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,tailwind,ts)](https://skillicons.dev)
 
 ## <p align="center">📊 Statistics</p>
 
