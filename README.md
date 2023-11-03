@@ -27,10 +27,11 @@ Hi there 👋
 
 ## <p align="center">🔮 Future ideas</p>
 
-1. Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
-2. Expore Next.js, Firebase, make project by using: React, Redux, Scss, Next.js, Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
-3. Using all my skills and knowledge, try to create [Clone of Facebook](https://facebook.com/) 🤯
-4. Update resume & this readme 😄
+1. ✅ Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
+2. ⚙️ Expore Next.js, Firebase, make project by using: React, Tailwind, Next.js, Typescript and Firebase. (Course by awesome guy named [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
+3. 🔮 Improve my Next.js, React, Tailwind skills. (Thanks to [ByteGrad](https://bytegrad.com/))▶️
+4. 🔮 Using all my skills and knowledge, try to create [Clone of Facebook](https://facebook.com/) 🤯
+5. 🔮 Update resume & this readme 😄
 
 ## <p align="center">💡 Skills</p>
 
