@@ -35,11 +35,11 @@ Hi there 👋
 
 ## <p align="center">💡 Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,redux,mui,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,tailwind,mui,git)](https://skillicons.dev)
 
 ### Future plans to extend my stack with:
 
-[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,tailwind,ts)](https://skillicons.dev)
+[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,postgresql,docker)](https://skillicons.dev)
 
 ## <p align="center">📊 Statistics</p>
 
