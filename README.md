@@ -4,7 +4,7 @@ Hi there 👋
 
 <!-- <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="36" height="36" alt="Telegram" /> -->
 
-🔭 I’m currently open to work
+🔭 Don't be shy, hit me up!
 
 📫 You can reach me at: 
 
@@ -27,19 +27,21 @@ Hi there 👋
 
 ## <p align="center">🔮 Future ideas</p>
 
-1. ✅ Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰
-2. ⚙️ Expore Next.js, Firebase, make project by using: React, Tailwind, Next.js, Typescript and Firebase. (Course by [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥
-3. 🔮 Improve my Next.js, React, Tailwind skills. (Thanks to [ByteGrad](https://bytegrad.com/))▶️
-4. 🔮 Using all my skills and knowledge, try to create [Clone of Facebook](https://facebook.com/) 🤯
-5. 🔮 Update resume & this readme 😄
+~~1. 🔮 Explore Vite and Redux (React-Redux), make Crypto API website based on [this layout](https://www.figma.com/file/EKbp40PN2vP5WsItDPg1h7/Crypto-Brains-Website?type=design&node-id=1401-185034&mode=design&t=0ygXJmOEZB3bWnCz-0) 💰~~
+~~2. 🔮 Expore Next.js, Firebase, make project by using: React, Tailwind, Next.js, Typescript and Firebase. (Course by [Fireship](https://fireship.io/courses/react-next-firebase/)) 🔥~~
+~~3. 🔮 Improve my Next.js, React, Tailwind skills. (Thanks to [ByteGrad](https://bytegrad.com/))▶️~~
+~~4. 🔮 Using all my skills and knowledge, try to create [Clone of Facebook](https://facebook.com/) 🤯~~
+~~5. 🔮 Update resume & this readme 😄~~
+
+### NOT GET FIRED
 
 ## <p align="center">💡 Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,tailwind,mui,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,next,tailwind,mui,styledcomponents,firebase,git,vercel,netlify)](https://skillicons.dev)
 
 ### Future plans to extend my stack with:
 
-[![My Future Skills](https://skillicons.dev/icons?i=next,firebase,postgresql,docker)](https://skillicons.dev)
+[![My Future Skills](https://skillicons.dev/icons?i=postgresql,docker,nest,nodejs)](https://skillicons.dev)
 
 ## <p align="center">📊 Statistics</p>
 
